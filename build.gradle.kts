@@ -13,7 +13,6 @@ dependencies {
         api("cab.tapsi.libs:localization-spring-boot-starter:0.0.2")
         api("cab.tapsi.libs.map-zones:tapsi-mapzones:3.0.0")
         api("cab.tapsi.libs.kafka:kafka-producer-starter:3.3.0")
-        api("box.tapsi.libs:metrics-core:1.0.0")
         api("io.github.mahdibohloul:projectreactor-retry-aop:2.0.0-RC2")
         api("box.tapsi.libs:metrics-core:1.0.2")
         api("box.tapsi.libs:utilities-starter:0.9.1")
