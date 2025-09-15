@@ -8,7 +8,7 @@ version = "0.0.1-SNAPSHOT"
 
 dependencies {
     constraints {
-        api("io.github.mahdibohloul:kpring-mediatr-starter:1.1.0")
+        api("io.github.mahdibohloul:kpring-mediatr-starter:2.0.1")
         api("cab.tapsi.libs.loggingstarter:tapsi-logging-starter:3.0.0")
         api("cab.tapsi.libs:localization-spring-boot-starter:0.0.2")
         api("cab.tapsi.libs.map-zones:tapsi-mapzones:3.0.0")
