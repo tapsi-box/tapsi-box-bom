@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "box.tapsi.libs"
-version = "0.0.1-SNAPSHOT"
+version = "1.0.0-RC1"
 
 dependencies {
     constraints {
