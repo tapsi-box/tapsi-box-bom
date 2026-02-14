@@ -4,11 +4,11 @@ plugins {
 }
 
 group = "box.tapsi.libs"
-version = "1.0.6"
+version = "1.0.7"
 
 dependencies {
   constraints {
-    api("io.github.mahdibohloul:kpring-mediatr-starter:2.0.1")
+    api("io.github.mahdibohloul:kpring-mediatr-starter:2.0.2")
     api("io.github.mahdibohloul:spring-reactor-kafka:1.0.0-RC1")
     api("cab.tapsi.libs.loggingstarter:tapsi-logging-starter:3.0.0")
     api("cab.tapsi.libs:localization-spring-boot-starter:0.0.2")
