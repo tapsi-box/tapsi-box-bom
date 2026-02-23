@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "box.tapsi.libs"
-version = "1.0.7"
+version = "1.0.8"
 
 dependencies {
   constraints {
@@ -19,8 +19,8 @@ dependencies {
     api("io.github.mahdibohloul:spring-setting-memory:0.9.1")
     api("io.github.mahdibohloul:spring-setting-mongodb:0.9.1")
     api("io.github.mahdibohloul:spring-setting-redis:0.9.1")
-    api("box.tapsi.libs:metrics-core:1.0.4")
-    api("box.tapsi.libs:utilities-starter:0.9.4")
+    api("box.tapsi.libs:metrics-core:1.0.5")
+    api("box.tapsi.libs:utilities-starter:0.9.5")
     api("box.tapsi.libs:scheduler-starter:0.9.0")
   }
 }
