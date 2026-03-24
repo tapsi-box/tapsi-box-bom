@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "box.tapsi.libs"
-version = "1.0.8"
+version = "1.0.9"
 
 dependencies {
   constraints {
@@ -14,13 +14,13 @@ dependencies {
     api("cab.tapsi.libs:localization-spring-boot-starter:0.0.2")
     api("cab.tapsi.libs.map-zones:tapsi-mapzones:3.0.0")
     api("io.github.mahdibohloul:projectreactor-retry-aop:2.0.0-RC2")
-    api("io.github.mahdibohloul:statemachine:0.10.0")
+    api("io.github.mahdibohloul:statemachine:0.11.0")
     api("io.github.mahdibohloul:spring-setting-core:0.9.1")
     api("io.github.mahdibohloul:spring-setting-memory:0.9.1")
     api("io.github.mahdibohloul:spring-setting-mongodb:0.9.1")
     api("io.github.mahdibohloul:spring-setting-redis:0.9.1")
     api("box.tapsi.libs:metrics-core:1.0.5")
-    api("box.tapsi.libs:utilities-starter:0.9.5")
+    api("box.tapsi.libs:utilities-starter:0.9.6")
     api("box.tapsi.libs:scheduler-starter:0.9.0")
   }
 }
