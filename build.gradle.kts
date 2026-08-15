@@ -4,16 +4,16 @@ plugins {
 }
 
 group = "box.tapsi.libs"
-version = "1.0.13"
+version = "1.0.14"
 
 dependencies {
   constraints {
     api("io.github.mahdibohloul:kpring-mediatr-starter:2.0.2")
-    api("io.github.mahdibohloul:spring-reactor-kafka:1.0.0-RC1")
+    api("io.github.mahdibohloul:spring-reactor-kafka:1.0.0")
     api("cab.tapsi.libs.loggingstarter:tapsi-logging-starter:3.0.0")
     api("cab.tapsi.libs:localization-spring-boot-starter:0.0.2")
     api("cab.tapsi.libs.map-zones:tapsi-mapzones:3.0.0")
-    api("io.github.mahdibohloul:projectreactor-retry-aop:2.0.0-RC2")
+    api("io.github.mahdibohloul:projectreactor-retry-aop:2.0.0")
     api("io.github.mahdibohloul:statemachine:0.11.0")
     api("io.github.mahdibohloul:spring-setting-core:0.10.0")
     api("io.github.mahdibohloul:spring-setting-memory:0.10.0")
