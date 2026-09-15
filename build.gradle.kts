@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "box.tapsi.libs"
-version = "2.0.0-RC5"
+version = "2.0.0-RC6"
 
 dependencies {
   constraints {
@@ -12,8 +12,8 @@ dependencies {
     api("io.github.mahdibohloul:spring-reactor-kafka:1.0.0")
     api("cab.tapsi.libs.loggingstarter:tapsi-logging-starter:3.0.0")
     api("cab.tapsi.libs:localization-spring-boot-starter:0.0.2")
-    api("cab.tapsi.libs.maplib:tapsi-maplib-starter:4.2.1")
-    api("cab.tapsi.libs.zones:tapsi-zones-starter:1.0.1")
+    api("cab.tapsi.libs.maplib:tapsi-maplib-starter:4.2.2")
+    api("cab.tapsi.libs.zones:tapsi-zones-starter:1.0.2")
     api("io.github.mahdibohloul:projectreactor-retry-aop:2.0.0")
     api("io.github.mahdibohloul:statemachine:0.11.0")
     api("io.github.mahdibohloul:spring-setting-core:1.0.0")
