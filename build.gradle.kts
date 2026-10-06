@@ -24,7 +24,7 @@ dependencies {
     api("io.github.mahdibohloul:spring-setting-admin-keycloak:0.11.0")
     api("io.github.mahdibohloul:spring-setting-admin-webflux:0.11.0")
     api("box.tapsi.libs:metrics-core:1.0.5")
-    api("box.tapsi.libs:utilities-starter:0.9.8")
+    api("box.tapsi.libs:utilities-starter:0.9.9")
     api("box.tapsi.libs:scheduler-starter:1.0.1")
   }
 }
